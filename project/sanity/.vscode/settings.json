@@ -23,4 +23,7 @@
     "javascript",
     "javascriptreact"
   ],
+  // Editor
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
 }
