@@ -33,7 +33,6 @@ export default function Layout({ children }) {
     <>
       <GlobalStyles />
       <Typography />
-
       <SiteBorderStyles>
         <ContentStyles>
           <Nav />
